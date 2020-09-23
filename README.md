@@ -1,4 +1,4 @@
-# statistical-distribution-analysis-Panel-Data-of-Individual-Wageson
+# How to build statistical distribution analysis on Panel Data of Individual Wageson?
 This analysis will provide the overview for analyst to understand the descriptive statistics and distribution analysis on Panel Data of Individual Wages
 
 I will provide the insight as below.

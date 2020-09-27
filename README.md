@@ -1,9 +1,7 @@
 # How to build statistical distribution analysis on wage data?
 This analysis will provide the overview for analyst to understand the descriptive statistics and distribution analysis on Panel Data of Individual Wages
 
-You can overview the data and download from the link.
-
-https://vincentarelbundock.github.io/Rdatasets/doc/plm/Wages.html
+You can overview the data and download from above.
 
 I will provide the insight in three points of view.
 

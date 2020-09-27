@@ -11,4 +11,3 @@ I will provide the insight in three points of view.
 
 ## 3.Continuing from above, how would we examine the distribution and clean outlier?
 
-## 4.How to Build an distribution assumption from wage data and prove it?
